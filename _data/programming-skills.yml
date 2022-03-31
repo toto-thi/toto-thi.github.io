@@ -1,0 +1,35 @@
+### color  secondary / success / danger / warning / info / light / dark
+### 70 
+### 75 danger
+### 80 secondary
+### 85 info
+### 90 success
+### 95 warning
+
+- name: JavaScript
+  percentage: 90
+  color: success
+
+- name: Python
+  percentage: 90
+  color: success
+
+- name: SQL
+  percentage: 90
+  color: success
+
+- name: HTML5/CSS3
+  percentage: 85
+  color: info
+
+- name: Dart
+  percentage: 75
+  color: danger
+
+- name: NoSQL
+  percentage: 70
+  color: 
+
+- name: Solidity
+  percentage: 70
+  color: 

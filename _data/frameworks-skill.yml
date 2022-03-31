@@ -1,0 +1,19 @@
+- name: Vue
+  percentage: 95
+  color: warning
+
+- name: Nuxt
+  percentage: 90
+  color: success
+
+- name: Express
+  percentage: 90
+  color: success
+
+- name: Vuetify
+  percentage: 85
+  color: info 
+
+- name: Flutter
+  percentage: 75
+  color: danger

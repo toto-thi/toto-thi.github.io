@@ -1,0 +1,7 @@
+- name: Git
+  percentage: 95
+  color: warning
+
+- name: GitHub
+  percentage: 90
+  color: success
