@@ -9,14 +9,22 @@
   from: Aug 2018
   to: Jan 2019
   description: Exchange student of an Erasmus+ programme in EU Countries. 
-               Participated in various class and laboratory. 
-               Carried on a mission of emissary between department.
+               Participated in various classes and laboratories. 
+               Carried on a mission of emissary between departments.
+               
+- title: Administrator, Vientiane Dog Paradise, Laos
+  from: April 2019
+  to: Oct 2019
+  description: Worked as an administrator, responsible for scheduling 
+               daycare and hotel stay for canine. Manage and communicate with customer, 
+               including briefly recap canines' activities. Occassionally report bug of software.
+                 
 
-- title: Mobile Developer Intern, Comet Digital Agency
+- title: Mobile Developer, Comet Digital Agency, Laos
   from: Sept 2021
   to: Nov 2021
   description: An internship as a mobile developer, 
-               working mainly with Dart and Flutter 
+               worked mainly with Dart and Flutter 
                to maintain and develop new features, 
                with 78% test coverage. Refactor mobile application
                architecture from MVC to the newest CLEAN architure 
