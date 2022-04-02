@@ -10,6 +10,10 @@
   percentage: 90
   color: success
 
+- name: GraphQL
+  percentage: 85
+  color: info
+
 - name: Vuetify
   percentage: 85
   color: info 
