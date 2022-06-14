@@ -26,6 +26,10 @@
   percentage: 85
   color: info
 
+- name: Java
+  percentage: 80
+  color: secondary
+
 - name: Dart
   percentage: 75
   color: danger
