@@ -9,7 +9,7 @@ description: This project is only for my bachelor's thesis.
 
 Creating a GraphQL APIs instead of REST APIs because I want to reduce the size of data each call. It is more organized and easy query language to work with. By using MongoDB as a document database help shorten long query like in MySQL or SQL.
 
-![preview](https://drive.google.com/file/d/1f9a-JdbDLger415Uy5hJyDCVqoxJm6Dn/view?usp=sharing)
+![preview](https://i.im.ge/2022/07/27/Fi7v40.png)
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/toto-thi/back-end-thesis" text="Learn More" %}
