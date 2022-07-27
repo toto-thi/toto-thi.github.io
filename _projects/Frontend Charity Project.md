@@ -9,7 +9,7 @@ description: This is the front-end for my bachelor's thesis.
 
 It is a charity platform for Lao's people via crypto currency. I chose to use Ethereum Network and ETH test network to build this project. Within Web Application, User can request a donation project or campaign by filling out data and expected donation amount. (User must connect to MetaMask before making a request).
 
-![preview](https://im.ge/i/Fiam2p)
+[![Fi7PPK.png](https://i.im.ge/2022/07/27/Fi7PPK.png)](https://im.ge/i/Fi7PPK)
 
 ## Connect to MetaMask
 
